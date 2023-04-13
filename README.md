@@ -4,4 +4,4 @@ The website for "Leisure Square" restaurant has been designed to provide a seaml
 The Gallery page displays a collection of high-quality photos of the restaurant's interior, exterior, and atmosphere, giving visitors a glimpse of the unique experience offered by the restaurant. The color scheme is warm and welcoming, reflecting the restaurant's style and ambiance.
 
 The website's design is responsive and user-friendly, ensuring a seamless experience across different devices. It provides all necessary information, from the menu to the location and reservation options, making it a valuable resource for both new and returning customers. The website's overall design and layout reflect the restaurant's commitment to quality, hospitality, and innovation.
-# [click here for live demo] ()
+# *[click here for live demo](https://harshak2931.github.io/Template-for-a-Cafe---Leisure-Square/)*
